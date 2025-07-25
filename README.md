@@ -8,3 +8,7 @@ A Python-based Enterprise Resource Planning (ERP) project involves developing a 
     This project build for only practice purpose. this not a live project in industry.
 
     
+### for access the erp home appliction. Admin have to login frist. Otherwise page shows the error due to authentication.
+
+username - test_mini_erp
+password - Test@123
