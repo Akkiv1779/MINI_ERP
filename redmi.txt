@@ -1,0 +1,2 @@
+username - test_mini_erp
+password - Test@123
